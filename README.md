@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/languages/code-size/BlueskyClouds/My-Actions?color=blueviolet">
 </div>
 
-个人收集并适配Github Actions的各类签到大杂烩
+个人收集并适配Github Actions的各类签到大杂 烩
 
 ### 来『百度极速版App』看视频还能赚钱，轻松日赚100元！我的邀请码：J3BX854 点击链接立得红包，最高100元！https://dwz.cn/hpE8n9gX
 ### 聚看点邀请码：24225525
